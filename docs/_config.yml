@@ -1,0 +1,39 @@
+theme: jekyll-theme-minimal
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: setup/about
+
+  - title: Setup Guide
+    url: setup
+
+  - title: Glazier Configurations
+  - title: └─New Actions
+    url: setup/new_actions
+  - title: └─Config Layout
+    url: setup/config_layout
+
+  - title: YAML Files
+  - title: └─YAML Specs
+    url: yaml
+  - title: └─Chooser UI
+    url: yaml/chooser_ui
+  - title: └─YAML Tips
+    url: yaml/tips
+
+  - title: Python
+  - title: └─Installer Actions
+    url: actions
+  - title: └─Policy Modules
+    url: policies
+  - title: └─Error Handling
+    url: error_codes
+  - title: └─Config Handlers
+    url: setup/config_handlers
+
+  - title: Mailing List 💌
+    url: https://groups.google.com/forum/#!forum/glazier-discuss
+  - title: File A Bug 🐛
+    url: https://github.com/google/glazier/issues/new
